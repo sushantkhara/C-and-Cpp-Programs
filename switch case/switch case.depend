@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536942221 source:c:\users\asus\desktop\new folder\switch case\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

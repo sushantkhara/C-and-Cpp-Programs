@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538486499 source:c:\users\asus\desktop\new folder\primenum check\main.c
+	<stdio.h>
+	<stdlib.h>
+

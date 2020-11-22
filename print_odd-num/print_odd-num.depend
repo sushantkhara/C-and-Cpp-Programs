@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536846579 source:c:\users\asus\desktop\new folder\print_odd-num\print-oddnum.c
+	<stdio.h>
+	<stdlib.h>
+

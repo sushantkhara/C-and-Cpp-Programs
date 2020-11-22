@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538396445 source:c:\users\asus\desktop\new folder\palindrome num\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536831672 source:c:\users\asus\desktop\new folder\chooseoption\main.c
+	<stdio.h>
+	<stdlib.h>
+

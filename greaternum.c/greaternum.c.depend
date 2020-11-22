@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536829905 source:c:\users\asus\desktop\new folder\greaternum.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

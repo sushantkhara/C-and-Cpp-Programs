@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536833129 source:c:\users\asus\desktop\new folder\testcasedriving.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

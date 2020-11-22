@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538402834 source:c:\users\asus\desktop\new folder\palindrome string\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

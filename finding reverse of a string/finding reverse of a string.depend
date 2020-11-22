@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538483289 source:c:\users\asus\desktop\new folder\finding reverse of a string\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+
